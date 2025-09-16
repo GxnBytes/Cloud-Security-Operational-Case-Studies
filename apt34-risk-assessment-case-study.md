@@ -46,4 +46,4 @@ Our activities included:
 ---
 
 ## 🔒 Key Takeaway
-Simulated APT-style assessments provide **actionable insights** that directly translate to **cloud security hardening** — particularly around identity, access, and continuous risk management.
+Simulated APT-style assessments provide **actionable insights** that directly translate to **cloud security hardening** particularly around identity, access, and continuous risk management.
