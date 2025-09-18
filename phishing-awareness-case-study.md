@@ -1,39 +1,40 @@
 # Case Study: Email Phishing Awareness Training for a Global Payments Provider
 
 ## 📌 Project Overview
-This project was conducted for a global financial institution to highlight how phishing attacks can be crafted to appear legitimate.  
-The initiative focused on demonstrating **real-world phishing tactics** and delivering a practical training resource to help employees identify malicious emails.  
+This project was conducted for a global financial institution to demonstrate how phishing attacks can target **cloud platforms and services**.  
+The initiative focused on highlighting **real-world phishing tactics** and delivering practical training resources to help employees identify malicious emails affecting **cloud SaaS environments**.
 
 ---
 
 ## 🛑 The Challenge
-With phishing attacks increasing in sophistication, the client needed to understand how even **simple emails could be weaponised**.  
-Their goal was to boost awareness across departments and embed phishing detection into daily operations.
+Phishing attacks are increasingly sophisticated, often targeting cloud-based productivity suites and collaboration tools.  
+The client needed to **improve cloud-aware security awareness** across departments and embed phishing detection into daily workflows.
 
 ---
 
 ## 🔑 Solution
 We implemented a two-step strategy:
-1. **Crafted a realistic phishing simulation** — transforming a generic phishing email into a highly convincing lure by incorporating urgency, authentic branding, and attacker-style language.  
-2. **Delivered focused awareness training** — concise and action-oriented, equipping employees with practical techniques to identify and respond to phishing threats.
 
-💡 *Cloud Relevance*: Training included examples of phishing campaigns targeting **cloud SaaS platforms (O365, G Suite)**, reinforcing that identity and access remain critical security layers in the cloud.
+1. **Crafted realistic phishing simulations** — designed emails to mimic cloud SaaS notifications (O365, G Suite) with urgency, branding, and attacker-style language.  
+2. **Delivered cloud-focused awareness training** — concise, action-oriented sessions equipping employees to recognize and respond to phishing threats in cloud environments.
+
+💡 *Cloud Relevance*: Training emphasized attacks on **cloud identity and access controls**, reinforcing the importance of protecting cloud accounts and sensitive data.
 
 ---
 
 ## 📊 Results
 - 📈 **Phishing report rates increased by 63%**  
 - 📉 **Risky email click-throughs dropped by 45%** in follow-up tests  
-- 🧠 Improved long-term awareness, embedding phishing detection into business operations
+- 🧠 Improved long-term awareness, embedding cloud-focused phishing detection into business operations
 
 ---
 
 ## ✅ Recommendations
-- Run **quarterly phishing simulations** to reinforce learning  
-- Include phishing awareness in **onboarding and annual training**  
-- Deploy a **“Report Phishing” button** within the corporate email platform for faster response  
+- Conduct **quarterly cloud-focused phishing simulations**  
+- Include phishing awareness in **onboarding and annual cloud security training**  
+- Deploy a **“Report Phishing” button** in cloud email platforms for faster response  
 
 ---
 
 ## 🔒 Key Takeaway
-Awareness training, when delivered with **realistic cloud-focused phishing examples**, can significantly reduce user-driven risk and strengthen enterprise resilience.
+Awareness training with **cloud-targeted phishing examples** significantly reduces user-driven risk and strengthens resilience in cloud and hybrid environments.
