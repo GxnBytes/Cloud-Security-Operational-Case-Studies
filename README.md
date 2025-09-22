@@ -14,7 +14,7 @@ While my main focus is **cloud engineering**, these projects highlight transfera
 
 ---
 
-## 🚀 About This Repo
+## 🚀 Projects Overview
 These case studies showcase practical cloud implementations and operational improvements. They demonstrate:  
 
 - **Cloud-aware risk mitigation** through simulated incidents  
@@ -30,3 +30,9 @@ Each project includes challenges, solutions, measurable results, and recommendat
 - Monitoring and logging best practices in AWS/Azure/GCP  
 - Security-aware cloud operations and incident simulations  
 - Risk assessment and compliance alignment in cloud workloads  
+
+---
+
+## 📜 License
+
+Authored by © Genesis Phillips
